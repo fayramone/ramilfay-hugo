@@ -1,0 +1,32 @@
+baseURL = 'http://localhost/'
+languageCode = 'en-us'
+title = 'Ramil Fayzukhanov'
+theme = 'mini'
+
+[security]
+  enableInlineShortcodes = true
+
+# Social links in footer, support github,twitter,stackoverflow,facebook
+[social]
+  # e.g.
+  github = 'https://github.com/'
+  twitter = 'https://x.com/2GAR1N'
+  telegram = 'https://t.me/fayzukhanov'
+  # facebook = 'your-facebook-link'
+
+# Site parameters
+[params]
+  # Site Author
+  author = 'Ramilfay'
+  # Author biography
+  bio = 'DevOps Engineer'
+  # Site Description, used in HTML meat
+  description = 'I am embarrassing myself on the internet'
+
+  # To enable comments, you may need to set `disqusShortname`
+  enableComments = false
+  # To enable comments, you may need to set `googleAnalytics`
+  enableGoogleAnalytics = false
+
+  # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
+  copyright = '{params.author} • © 2024 • Verbal Poverty'

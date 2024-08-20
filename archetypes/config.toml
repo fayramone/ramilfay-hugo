@@ -1,0 +1,4 @@
+baseURL = 'http://ramilfay.ru'
+languageCode = 'en-us'
+title = 'Ramil Fayzukhanov'
+theme = 'mini'

@@ -12,7 +12,7 @@ posts = "/posts/:title/"
 paginate = 3
 
 #[[params.social]]
-#github = ""
+github = "https://github.com/fayramone"
 #twitter = ""
 #instagram = ""
 #facebook = ""

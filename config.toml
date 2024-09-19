@@ -6,10 +6,8 @@ theme = "mini"
 defaultContentLanguage = "en"
 hasCJKLanguage = true
 
-[permalinks]
-posts = "/posts/:title/"
-
-paginate = 3
+#[permalinks]
+#posts = "/posts/:year/:title/"
 
 #[[params.social]]
 github = "https://github.com/fayramone"
